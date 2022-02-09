@@ -1,0 +1,32 @@
+Opinion,Party Letter,Party name,Party type(s) - Annotated,Law firm(s) - Annotated,Party type(s) - Modeled,Law firm(s) - Model
+1,B,National Railroad Passenger Corp.,defendant,2,defendant,2
+1,G,Consolidated Rail Corp.,defendant,2,,2
+2,A,"625 3RD ST. ASSOCS., L.P.",plaintiff,"1,2",plaintiff,"2,1"
+2,B,ALLIANT CREDIT UNION,defendant,"3,4,5",plaintiff,"2,1"
+3,A,ZENITH ELECTRONICS CORPORATION,"plaintiff, counter-defendant","1,2","plaintiff,counter-defendant",1
+3,B,EXZEC INC.,"defendant, counter-claimant, counter-plaintiff","3,4","counter-plaintiff,defendant,counter-claimant",3
+3,C,CARROLL TOUCH INC,"defendant, counter-claimant, counter-plaintiff",5,"defendant,counter-claimant",5
+4,D,Adamowicz Estates,plaintiff,1,"plaintiff,plaintiffs"",plaintiffs'",1
+5,A,ALLSTATE INSURANCE COMPANY,plaintiff,1,"respondent,defendants "",defendant",2
+6,A,"SAMSUNG ELECTRONICS CO., LTD.",appellee,"1,2",appellee,2
+6,B,QIMONDA AG,appellee,"1,2",,
+6,C,Infineon Technologies AG,appellee,"1,2",appellee,2
+6,D,International Business Machines Corp.,appellee,"1,2",appellee,2
+6,E,"Hynix Semiconductor, Inc.",appellee,3,appellee,3
+6,F,Intel Corporation,appellee,4,appellee,4
+6,G,Nanya Technology Corporation,appellee,5,,
+6,H,"Micron Technology, Inc.",appellee,6,,
+7,A,HOME BUILDERS ASSOCIATION OF NORTHERN CALIFORNIA,plaintiff,1,,
+7,B,UNITED STATES FISH AND WILDLIFE SERVICE,defendant,2,,
+7,C,California Building Industry Association,plaintiff,1,,
+7,D,Building Industry Legal Defense Foundation,plaintiff,1,,
+7,F,United States Department of the Interior,defendant,2,"defendant-,defendant",2
+7,H,Center for Biological Diversity,defendant-intervenor,,"defendant-,defendant-intervenor,defendant",2
+8,B,VIEJAS GROUP BARON LONG CAPITAN GRANDE BAND OF DIGUENO MISSION INDIANS OF THE VIEJAS GROUP RESERVATION,defendant,2,,
+9,A,Sharp Electronics Corp.,petitioner,1,,
+9,B,"Branded Products, Inc.",respondent,"2,3",respondent,"2,3"
+10,A,Nvidia Corporation,defendant,"6,7",defendant,"7,6"
+10,B,"ATI Technologies, Inc.",defendant,"6,7",defendant,"7,6"
+10,C,"Advanced Micro Devices, Inc.",defendant,"6,7",defendant,"7,6"
+10,D,"AMD U.S. Finance, Inc.",defendant,"6,7",defendant,"7,6"
+10,E,Alberta ULC,defendant,"6,7",defendant,"7,6"
